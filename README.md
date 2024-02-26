@@ -1,6 +1,6 @@
 # test-datasets
 
-This contains test data for the BioImageTools nextflow modules.
+This contains test data for the nextflow modules and pipelines.
 
 > ⚠️ **Do not merge your test data to the `main` branch! Each pipeline and module has a dedicated branch.**
 
